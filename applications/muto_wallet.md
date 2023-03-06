@@ -27,8 +27,12 @@ Please provide the following:
 We expect the teams to already have a solid idea about the project's expected final state.
 Therefore, we ask the teams to submit (where relevant):
 - Mockups/designs of any UI components
-- API specifications of the core functionality
-- An overview of the technology stack to be used
+- API specifications of the core functionality:
+
+1) Front-End : React, JavaScript, Thorify Web 3 Library,
+2) Smart Contract : Solidity, Hardhat, Typescript. VIP (180 and 181)
+3) Architecture - Load Balancers, AWS with EC2 
+
 - Documentation of core components, protocols, architecture, etc. to be deployed
 - PoC/MVP or other relevant prior work or research on the topic
 
@@ -66,14 +70,6 @@ If the project involves development work, then we'd appreciated it if you can si
 
 This section should break out the development roadmap into a number of milestones. Since the milestones will appear in the grant contract, it helps to describe the functionality we should expect, plus how we can check that such functionality exists in the product. Whenever milestones are delivered, we refer to the contract to ensure that everything has been delivered as expected.
 
-Below we provide an <b>example roadmap</b>. For each milestone:
-
-- Please indicate the milestone duration, workload in terms of full-time equivalent (FTE) and cost. 
-- Please be sure to include a specification of the software. The level of details must be high enough so that we are able to verify that the software meets the specification.
-- Please note that we require documentation (e.g. tutorials, API specifications, architecture details) in each milestone. This ensures that the code can be widely used by the community.
-- Please provide a test suite, comprising unit and integration tests, along with a guide on how to run these.
-- Please commit to providing dockerfiles for the delivery of your project.
-
 
 ### Example Roadmap for a dApp Application
 
@@ -88,26 +84,27 @@ Below we provide an <b>example roadmap</b>. For each milestone:
 #### Milestone 1 — Front-End Development
 | Number | Deliverable | Specification |
 |-|-|-|
-| 1 | UI/UX Design | We will convert the figma design into react based components. 
-| 2 | Functional Development | We will get the design functional and responsive. All screens including Swapping, Staking, Wallet Dashboard, NFTs Screens will be functional.
+| 1 | UI/UX Design | Completing Figma Design for Web-Wallet and Extension 
+| 2 | Front-End Development |Convering figma design to react based components. We will get the design functional and responsive. All screens including Swapping, Staking, Wallet Dashboard, NFTs Screens will be functional.
 | 3 | Security and Password | Generating a security phrase and passcode to access the wallet.
-| 4 | Wallet Extension | Completing the Design and making the wallet extension functional.
+| 4 | Web 3 Integration | Enabling Blockchain Connectivity and interaction with the nodes.
 
-#### Milestone 2  —  Back-End Development with integrations
+#### Milestone 2  —  Smart Contract Development with integrations
 | Number | Deliverable | Specification |
 |-|-|-|
 | 1 | User Guide | We will provide a user guide or a demo video to show what features have been done.  |
 | 2 | Integration | integration of the VeChain wallet with third-party services including vexchange and on-ramp fiat to crypto buying solutions.
-| 3 | Front-End Integration with Back-end | Ensuring that all functionalities are being called.
+| 3 | Front-End Integration with Smart Contract | Ensuring that all functionalities are being called.
 | 4 | Send & Receive tokens | Enabling sending and receiving tokens.
 | 5 | Staking System Implementation | Implementation of Staking System through different staking pools.
 
 #### Milestone 3  —  Testing and Development
 | Number | Deliverable | Specification 
 |-|-|-|
-| 1 | Testing | Testing on Test-net and Main-net 
-| 2 | Deployment | Final Deployment on the Main-net
+| 1 | Smart Contract Testcases | Ensuring a 100% coverage of Smart Contract test-cases 
+| 2 | Test-Net Deployment | Ensuring proper testing on the test-net before moving the final contracts to the main-net
 | 3 | Smoke Testing | Ensuring and running out proper Quality Assurance
+| 4 | Main-Net Deployment | Launching the Product on Main-net
 ...
 
 #### Community engagement
