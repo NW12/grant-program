@@ -20,7 +20,7 @@ Please provide the following:
 4) Low to minimalist Gas-Fee
 5) Recognized Team with a strong background.
 
-- If relevant, an indication of how you will integrate tools and features (e.g., Sync2/Connex, fee delegation protocols, MTT, etc) to enhance your project. 
+- We will integrate the VIP Contract Standards ( 180 & 181 ) to hold and transfer fungible and non-fungible thokens. Similarly, Thorify adapter will be used for Web 3.0 connectivity.
 
 ### Project Details
 
@@ -37,14 +37,21 @@ Therefore, we ask the teams to submit (where relevant):
 - PoC/MVP or other relevant prior work or research on the topic
 
 ### Ecosystem Fit
-Are there any other projects similar to yours? If so, how is your project different?
+As of now, we only have the VeChain Sync wallet but our wallet is super advance in features. We have created a whole new Wallet that allows users to hold their non-fungible and fugnible assets at one place. Similarly, we are offering a staking module where users can access pools and services under one-roof. Our Wallet also features an integrated swap. The best part is that MetaMuto Wallet also allows holding game/metaverse tokens too separately.  We also offer a chrome extension where users can have a quick overview about their assets and can perform small actions from there
 
 ## Team 
 
 ### Team members
 
 - Name of team leader : Danish Hameed
-- Names of team members : Shahid Javed, Mohsin Laequee, Zeeshan Hussain, Ali Shahzad, Humaz Miraj, Ashfaq Khalid
+- Names of team members : 
+1) Danish Hameeed ( CTO and Product Head)
+2) Shahid Javed ( VP Engineering)
+3) Mohsin Laeeque ( Senior Blockchain Engineer )
+4) Zeeshan Hussain ( Senior Front-End Engineer )
+5) Humaz Miraj ( Senior Front-End Engineer)
+6) Ali Shahzad ( Product and Community Manager )
+7) Abdul Rehman Qureshi ( Technical Analyst)
 
 ### Team Website
 
@@ -54,7 +61,8 @@ Are there any other projects similar to yours? If so, how is your project differ
 
 MetaMuto's entire team has more than 5+ years of experience in Blockchain based product development. MetaMuto team has a history of developing extraordinary projects on different EVM compatible and L2 Blockchains. Danish Hameed is basically the CTO and Technical Blockchain consultant at Blockchain. Under the hood of his Blockchain experience, he has worked and amplified the growth and technical development process of different firms like BettsRecruiting, Annex.Finance, Spookyswap and much more. Other team members comprise of Blockchain architects, technical project managers and Blockchain Engineers having a proven experience of more than 5+ years in developing DEX, DAPPS, NFT Marketplaces, Wallets, ICO, IDO and much more.
 
-If the project involves development work, then we'd appreciated it if you can single out a few interesting codes commits made by team members on their past projects. 
+If the project involves development work, then we'd appreciated it if you can single out a few interesting codes commits made by team members on their past projects.
+Ans : Will Share via PM 
 
 ### Team Code Repos
 
