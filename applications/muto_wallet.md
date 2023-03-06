@@ -85,7 +85,7 @@ This section should break out the development roadmap into a number of milestone
 | Number | Deliverable | Specification |
 |-|-|-|
 | 1 | UI/UX Design | Completing Figma Design for Web-Wallet and Extension 
-| 2 | Front-End Development |Convering figma design to react based components. We will get the design functional and responsive. All screens including Swapping, Staking, Wallet Dashboard, NFTs Screens will be functional.
+| 2 | Front-End Development |Converting figma design to react based components. We will get the design responsive. All screens including Swapping, Staking, Wallet Dashboard, NFTs Screens will be responsive yet not-functional.
 | 3 | Security and Password | Generating a security phrase and passcode to access the wallet.
 | 4 | Web 3 Integration | Enabling Blockchain Connectivity and interaction with the nodes.
 
@@ -94,7 +94,7 @@ This section should break out the development roadmap into a number of milestone
 |-|-|-|
 | 1 | User Guide | We will provide a user guide or a demo video to show what features have been done.  |
 | 2 | Integration | integration of the VeChain wallet with third-party services including vexchange and on-ramp fiat to crypto buying solutions.
-| 3 | Front-End Integration with Smart Contract | Ensuring that all functionalities are being called.
+| 3 | Front-End Integration with Smart Contract | Ensuring that all functionalities are being called and are functional.
 | 4 | Send & Receive tokens | Enabling sending and receiving tokens.
 | 5 | Staking System Implementation | Implementation of Staking System through different staking pools.
 
