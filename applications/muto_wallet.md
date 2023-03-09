@@ -33,8 +33,7 @@ Therefore, we ask the teams to submit (where relevant):
 2) Smart Contract : Solidity, Hardhat, Typescript. VIP (180 and 181)
 3) Architecture - Load Balancers, AWS with EC2 
 
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
+- Architecture Diagram : 
 
 ### Ecosystem Fit
 As of now, we only have the VeChain Sync wallet but our wallet is super advance in features. We have created a whole new Wallet that allows users to hold their non-fungible and fugnible assets at one place. Similarly, we are offering a staking module where users can access pools and services under one-roof. Our Wallet also features an integrated swap. The best part is that MetaMuto Wallet also allows holding game/metaverse tokens too separately.  We also offer a chrome extension where users can have a quick overview about their assets and can perform small actions from there
@@ -48,8 +47,8 @@ As of now, we only have the VeChain Sync wallet but our wallet is super advance 
 1) Danish Hameeed ( CTO and Product Head)
 2) Shahid Javed ( VP Engineering)
 3) Mohsin Laeeque ( Senior Blockchain Engineer )
-4) Zeeshan Hussain ( Senior Front-End Engineer )
-5) Humaz Miraj ( Senior Front-End Engineer)
+4) Saeed Ullah ( Blockchain Architect )
+5) Umer Surkhail ( Technical Project Manager )
 6) Ali Shahzad ( Product and Community Manager )
 7) Abdul Rehman Qureshi ( Technical Analyst)
 
@@ -66,13 +65,18 @@ Ans : Will Share via PM
 
 ### Team Code Repos
 
-- https://github.com/<your_repo_1>
-- https://github.com/<your_repo_2>
+- https://github.com/NW12 ( Main Repo)
 
 ### Team LinkedIn Profiles
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+- https://www.linkedin.com/in/hameeddanish/
+- https://www.linkedin.com/in/shahid-javed-188b712b/
+- https://www.linkedin.com/in/mohsin-laeeque/
+- https://www.linkedin.com/in/ali-s-b36337197/
+- https://www.linkedin.com/in/abdul-rehman-qureshi-80a22660/
+- https://www.linkedin.com/in/muhammad-ashfaq-khalid-2627bab/
+- https://www.linkedin.com/in/saeed-ullah-khan-0824886a/
+- https://www.linkedin.com/in/umer-surkhail-a5b30332/
 
 ## Development Roadmap 
 
