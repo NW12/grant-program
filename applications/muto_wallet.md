@@ -19,6 +19,7 @@ Please provide the following:
 3) Fast and Amplified Transactions
 4) Low to minimalist Gas-Fee
 5) Recognized Team with a strong background.
+6) Already Existing DEX's and NFT Marketplaces
 
 - We will integrate the VIP Contract Standards ( 180 & 181 ) to hold and transfer fungible and non-fungible thokens. Similarly, Thorify adapter will be used for Web 3.0 connectivity.
 
@@ -26,14 +27,21 @@ Please provide the following:
 
 We expect the teams to already have a solid idea about the project's expected final state.
 Therefore, we ask the teams to submit (where relevant):
-- Mockups/designs of any UI components
+- Mockups/designs of any UI components:
+
+1) https://wallet.server18.arhamsoft.info/assets/images/1-start-account.png
+2) https://wallet.server18.arhamsoft.info/assets/images/2-staking-account.png
+3) https://wallet.server18.arhamsoft.info/assets/images/3-trade-account.png
+4) https://wallet.server18.arhamsoft.info/assets/images/4-nft-account.png
+5) https://wallet.server18.arhamsoft.info/assets/images/5-swap-account.png
+
 - API specifications of the core functionality:
 
 1) Front-End : React, JavaScript, Thorify Web 3 Library,
 2) Smart Contract : Solidity, Hardhat, Typescript. VIP (180 and 181)
 3) Architecture - Load Balancers, AWS with EC2 
 
-- Architecture Diagram : 
+- Architecture Diagram : https://wallet.server18.arhamsoft.info/assets/images/metemuto-architecture-diagram.png
 
 ### Ecosystem Fit
 As of now, we only have the VeChain Sync wallet but our wallet is super advance in features. We have created a whole new Wallet that allows users to hold their non-fungible and fugnible assets at one place. Similarly, we are offering a staking module where users can access pools and services under one-roof. Our Wallet also features an integrated swap. The best part is that MetaMuto Wallet also allows holding game/metaverse tokens too separately.  We also offer a chrome extension where users can have a quick overview about their assets and can perform small actions from there
@@ -60,8 +68,7 @@ As of now, we only have the VeChain Sync wallet but our wallet is super advance 
 
 MetaMuto's entire team has more than 5+ years of experience in Blockchain based product development. MetaMuto team has a history of developing extraordinary projects on different EVM compatible and L2 Blockchains. Danish Hameed is basically the CTO and Technical Blockchain consultant at Blockchain. Under the hood of his Blockchain experience, he has worked and amplified the growth and technical development process of different firms like BettsRecruiting, Annex.Finance, Spookyswap and much more. Other team members comprise of Blockchain architects, technical project managers and Blockchain Engineers having a proven experience of more than 5+ years in developing DEX, DAPPS, NFT Marketplaces, Wallets, ICO, IDO and much more.
 
-If the project involves development work, then we'd appreciated it if you can single out a few interesting codes commits made by team members on their past projects.
-Ans : Will Share via PM 
+- Code Commits for the team will be shared via PM
 
 ### Team Code Repos
 
@@ -132,8 +139,8 @@ Our Future Goals are towards further expansion of the Wallet, enabling and addin
 
 Possible additional information to include:
 - What work has been done so far?
-Ans: We are almost done with the front-end development and we are simultaneously working on the back-end side too.
+Ans: We are almost done with the front-end development and we are simultaneously moving towards working on the back-end side too.
 - Are there any teams who have already contributed (financially) to the project?
-Ans: Not so far
+Ans: Nope, currently the project is being developed on self-funding
 - Have you applied for other grants so far?
 Ans: No, we only want to contribute to the VeChain Blockchain.
